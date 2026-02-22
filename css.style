@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+nav a {
+    color:black;
+    border-bottom:3px solid;
+    text-decoration: none;
+    margin:20px;
+    font-size:20px;
+}
+
+nav {
+    text-align:center;
+    border-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 56px;
+}
+
+.isik {
+    margin-left: 50px;
+    border-left: 15px dotted black;
+    padding-right:40px;
+}
+
+.isikk {
+    border-left: 15px dotted black;
+    padding-right:40px;
+}
+
+.isikkk {
+    margin-right: 50px;
+    border-left:15px dotted black;
+}
+
+main p {
+    border:1px solid black;
+    border-radius:10px;
+    padding:5px;
+}
+
+footer p {
+    background-color:white;
+}
+
+footer {
+    background-color:black;
+    padding:5px 5px 5px 5px;
+}
